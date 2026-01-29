@@ -9,10 +9,10 @@ Meu foco principal é o desenvolvimento Back-end utilizando **Java** e **Spring 
 Estou sempre em busca de novos desafios que unam desenvolvimento seguro e soluções eficientes.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <a href="www.linkedin.com/in/jorge-pozes" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
+    <a href="mailto:jorgepozes027@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </p>
