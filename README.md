@@ -38,3 +38,13 @@ Estou sempre em busca de novos desafios que unam desenvolvimento seguro e soluç
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgepozes04&theme=tokyonight" alt="Detalhes do Perfil" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgepozes04&theme=tokyonight" alt="Linguagens" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgepozes04&theme=tokyonight" alt="Linguagens mais commitadas" />
+</div>
+</p>
