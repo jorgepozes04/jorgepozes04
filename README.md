@@ -4,7 +4,7 @@
 
 Olá! Atualmente estou cursando o Bacharelado em **Sistemas de Informação no IFF** (Instituto Federal Fluminense).
 
-Meu foco principal é o desenvolvimento Back-end utilizando **Java** e **Spring Boot**, com conhecimentos sólidos em **SQL** e **API REST**. Paralelamente, sou um entusiasta da área de **Cibersegurança** e **Hacking Ético**, dedicando meus estudos a redes, **Kali Linux** e plataformas como o TryHackMe.
+Meu foco principal é o desenvolvimento Back-end utilizando **Java** e **Spring Boot**, com conhecimentos sólidos em **SQL** e **API REST**. Paralelamente, sou um entusiasta da área de **Cibersegurança**, dedicando meus estudos a redes, **Kali Linux** e plataformas como o TryHackMe.
 
 Estou sempre em busca de novos desafios que unam desenvolvimento seguro e soluções eficientes.
 
@@ -19,7 +19,7 @@ Estou sempre em busca de novos desafios que unam desenvolvimento seguro e soluç
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -38,7 +38,7 @@ Estou sempre em busca de novos desafios que unam desenvolvimento seguro e soluç
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
 <div align="center">
